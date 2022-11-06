@@ -12,6 +12,11 @@ Rootumuz 7'dir.Roottan küçük olanlar sol tarafa büyük olanlar ise sağ tara
 9>7 9>8 olduğundan 9, 7 ve 8'in sağında bulunur.
 4<7 4<5 4>1 4>3 olduğundan 4 7 ve 5'in solunda 1 ve 3'ün sağında bulunur.
 2<7 2<5 2>1 ve 2<3 olduğundan 2 1'in sağında ancak 7,5 ve 3'ün solunda bulunur.Algoritma burada biter.
+
+
+
+
+
                       7
                      / \
                     5   8
@@ -21,4 +26,10 @@ Rootumuz 7'dir.Roottan küçük olanlar sol tarafa büyük olanlar ise sağ tara
                 0  3
                   / \
                  2   4
-                 www.patika.dev
+                
+                
+                
+                
+                
+                
+                www.patika.dev
